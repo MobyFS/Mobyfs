@@ -1,4 +1,4 @@
-![Header](https://github.com/MobyFS/FHQ/blob/master/Moby2.jpg)
+![Header](https://github.com/MobyFS/Work/blob/master/Moby2.jpg)
 
 
 # Hi, i'm a beginner specialist Security Officer 
@@ -25,4 +25,4 @@ Studying: MTUCI
 [![VK](https://img.shields.io/badge/-VK-7B7E80?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/moby_yo)
 [![Instagram](https://img.shields.io/badge/-Instagram-7B7E80?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/moby_fs/)
 
-![Header](https://github.com/MobyFS/FHQ/blob/master/kokpic.gif)
+![Header](https://github.com/MobyFS/Work/blob/master/kokpic.gif)
