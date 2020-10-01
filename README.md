@@ -5,7 +5,7 @@
 
 From: Russia,Moscow
 
-Studying: Moscow Technical University of Communications and Informatics (MTUCI) (https://mtuci.ru/)
+Studying: Moscow Technical University of Communications and Informatics (MTUCI)[https://mtuci.ru/]
 
 ## OS
 ![Windows](https://img.shields.io/badge/-Windows-7B7E80?style=for-the-badge&logo=windows)
