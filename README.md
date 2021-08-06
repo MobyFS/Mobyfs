@@ -9,7 +9,7 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 
 ## OS
 ![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
-![Linux_Kali](https://img.shields.io/badge/-Linux_Kali-DC322F?style=for-the-badge&logo=linux-kali&logoColor=FFFFFF)
+![Linux_Kali](https://img.shields.io/badge/-Linux_Kali-DC322F?style=for-the-badge&logo=Kali&logoColor=FFFFFF)
 ![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
 ![Linux_Debian](https://img.shields.io/badge/-Linux_Debian-DC322F?style=for-the-badge&logo=Debian&logoColor=FFFFFF)
 ![Linux Arch](https://img.shields.io/badge/Linux_Arch-DC322F?style=for-the-badge&logo=arch-linux&logoColor=white)
