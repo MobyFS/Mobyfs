@@ -35,6 +35,6 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 [![Discord](https://img.shields.io/badge/-Discord-DC322F?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](Moby#0557)
 [![Steam](https://img.shields.io/badge/-Steam-DC322F?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/LoveDread/)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={mobyfs}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={MobyFS}&theme=blue-green
 
 ![Header](https://github.com/MobyFS/Work/blob/master/kokpic.gif)
