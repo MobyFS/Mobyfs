@@ -9,9 +9,11 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 
 ## OS
 ![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
-![Linux_Kali](https://img.shields.io/badge/-Linux_Kali/Arch/Mint-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Linux_Kali](https://img.shields.io/badge/-Kali_Linux-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
 ![Linux_Debian](https://img.shields.io/badge/-Linux_Debian-DC322F?style=for-the-badge&logo=Debian&logoColor=FFFFFF)
+![Linux Arch](https://img.shields.io/badge/Arch_Linux-DC322F?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-DC322F?style=for-the-badge&logo=apple&logoColor=FFFFFF)
 
 ## Languages and Tools 
@@ -22,11 +24,9 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 ![Framework](https://img.shields.io/badge/-Framework-DC322F?style=for-the-badge&logo=.net&logoColor)
 ![SQL](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
 ![Powershell](https://img.shields.io/badge/-Powershell-DC322F?style=for-the-badge&logo=Powershell&logoColor=FFFFFF)
-![BASH](https://img.shields.io/badge/-bash-DC322F?style=for-the-badge&logo=bash&logoColor=FFFFFF)
 ![JSON](https://img.shields.io/badge/-JSON-DC322F?style=for-the-badge&logo=JSON&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-DC322F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/-Unity-DC322F?style=for-the-badge&logo=unity&logoColor=FFFFFF)
-
 
 ## Links 
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/mobyfs)
@@ -35,6 +35,5 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 [![Discord](https://img.shields.io/badge/-Discord-DC322F?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](Moby#0557)
 [![Steam](https://img.shields.io/badge/-Steam-DC322F?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/LoveDread/)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={MobyFS}&theme=blue-green
 
 ![Header](https://github.com/MobyFS/Work/blob/master/kokpic.gif)
