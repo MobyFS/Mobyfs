@@ -29,10 +29,12 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 
 
 ## Links 
-[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/mobyfs)
+[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/mobyfs)
 [![VK](https://img.shields.io/badge/-VK-DC322F?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/moby_yo)
 [![Instagram](https://img.shields.io/badge/-Instagram-DC322F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/moby_fs/)
 [![Discord](https://img.shields.io/badge/-Discord-DC322F?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](Moby#0557)
 [![Steam](https://img.shields.io/badge/-Steam-DC322F?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/LoveDread/)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
 ![Header](https://github.com/MobyFS/Work/blob/master/kokpic.gif)
