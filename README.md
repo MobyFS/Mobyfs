@@ -9,10 +9,10 @@ Studying: [Moscow Technical University of Communications and Informatics (MTUCI)
 
 ## OS
 ![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
-![Linux_Kali](https://img.shields.io/badge/-Kali_Linux-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Linux_Kali](https://img.shields.io/badge/-Linux_Kali-DC322F?style=for-the-badge&logo=linux-kali&logoColor=FFFFFF)
 ![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
 ![Linux_Debian](https://img.shields.io/badge/-Linux_Debian-DC322F?style=for-the-badge&logo=Debian&logoColor=FFFFFF)
-![Linux Arch](https://img.shields.io/badge/Arch_Linux-DC322F?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux Arch](https://img.shields.io/badge/Linux_Arch-DC322F?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-DC322F?style=for-the-badge&logo=apple&logoColor=FFFFFF)
 
