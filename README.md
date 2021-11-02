@@ -6,6 +6,7 @@
 From: Russia,Moscow
 
 Studying: [Moscow Technical University of Communications and Informatics (MTUCI)](https://mtuci.ru/)
+Work: [Positive Technologies](https://www.ptsecurity.com/ru-ru/)
 
 ## OS
 ![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
